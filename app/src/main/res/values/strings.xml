@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClienteProvider</string>
+    <string name="txt_Nombre">Nombre</string>
+    <string name="txt_Contrasenia">Password</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Telefono">Telefono</string>
+    <string name="txt_Insertar">Insertar</string>
+    <string name="txt_Modificar">Modificar</string>
+    <string name="txt_Eliminar">Eliminar</string>
+</resources>
